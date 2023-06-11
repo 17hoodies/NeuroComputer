@@ -44,8 +44,8 @@
   --tint-colour: 255,255,255;
   --tint-brightness: 0;
   --font: Rubik;
-  --window-padding: 10px;
-  --window-roundness: 20px;
+  --window-padding: 0px;
+  --window-roundness: 0px;
   --update-notice-1: none;
 }
 
